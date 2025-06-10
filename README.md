@@ -1,22 +1,19 @@
 # Informação sobre o Trabalho de Conclusão de Curso (TCC)
-`TÍTULO DO TCC`  
+`Detecção de Anomalias em Ambientes de Nuvem por Aprendi-
+zado de Máquina`  
 
 Trabalho de Conclusão de Curso (TCC)
 
-`CURSO`: 
+`CURSO`: Sistemas de Informação
 
-`SEMESTRE:`
+`SEMESTRE:` 2025/1
 
-`Objetivos de Desenvolvimento Sustentável (ODS) da ONU:` 
-> Incluir o(s) número(s) e a(s) descrição(ões) do(s) ODS da ONU que o TCC atende. 
 
 ## Participantes
 
 Os membros da equipe são: 
-- Fulano da Silva
-- Ciclano Albuquerque
-
-> Incluir a lista dos membros da equipe com seus nomes completos.
+- Camila Alves da Silva
+- Thainara Gabrielle Gomes Vieira
 
 # Estrutura do Projeto
 
